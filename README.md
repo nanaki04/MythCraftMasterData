@@ -1,6 +1,6 @@
 # MythcraftMasterData
 
-**TODO: Add description**
+[WIP] Master data for a simple strategy game intended for the programmer to get used to the Elixir language
 
 ## Installation
 
