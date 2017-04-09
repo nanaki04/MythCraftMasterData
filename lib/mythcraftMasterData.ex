@@ -1,4 +1,4 @@
-defmodule MythcraftMasterData do
+defmodule MasterData do
 
   def get_maplist() do
     Maplist.get
