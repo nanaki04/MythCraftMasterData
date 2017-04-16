@@ -5,7 +5,7 @@ defmodule MasterData do
   end
 
   def get_gamedata(map) do
-    module_name = String.to_existing_atom("Elixir." <> String.replace(map, ~r/ /, ""))
+    module_name = String.to_existing_atom("Elixir.MasterData." <> String.replace(map, ~r/ /, ""))
     apply(module_name, :get, [])
   end
 

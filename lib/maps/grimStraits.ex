@@ -1,4 +1,4 @@
-defmodule GrimStraits do
+defmodule MasterData.GrimStraits do
 
   def get do
     []

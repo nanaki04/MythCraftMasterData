@@ -1,4 +1,4 @@
-defmodule BloodRush do
+defmodule MasterData.BloodRush do
 
   def get do
     [

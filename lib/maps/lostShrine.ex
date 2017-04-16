@@ -1,4 +1,4 @@
-defmodule LostShrine do
+defmodule MasterData.LostShrine do
 
   def get do
     []
