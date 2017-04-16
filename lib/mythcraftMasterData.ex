@@ -1,4 +1,7 @@
 defmodule MasterData do
+  require MasterData.BloodRush
+  require MasterData.LostShrine
+  require MasterData.GimStraits
 
   def get_maplist() do
     Maplist.get
